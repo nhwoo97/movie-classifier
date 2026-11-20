@@ -44,7 +44,6 @@ pip install -r requirements.txt
 jupyter notebook notebook.ipynb
 ```
 
-The full notebook runs in about 6 minutes on a laptop, mostly in nested cross-validation.
 
 ## Next steps
 
